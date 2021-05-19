@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VenkataSaiPrakashY
-- 👀 I’m interested in intrnships related to data science or analytics
+- 👀 I’m interested in internships related to data science or analytics
 - 🌱 I’m currently learning Machine Learning 
-- 💞️ I’m looking to collaborate on preojects related to data science or Machine Learning
+- 💞️ I’m looking to collaborate on prejects related to data science or Machine Learning
 - 📫 I am just a mail away "venkatasaiprakash24@gmail.com"
 
 <!---
