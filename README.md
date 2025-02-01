@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VenkataSaiPrakashY
+- 👋 Hi, I’m @yvsprakash
 - 👀 I’m interested in internships related to data science or analytics
 - 🌱 I’m currently learning Machine Learning 
 - 💞️ I’m looking to collaborate on prejects related to data science or Machine Learning
